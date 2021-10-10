@@ -1,5 +1,5 @@
 first_project
-End to end DS project
+End to end DS projects
 ==============================
 
 my first deep dive project
